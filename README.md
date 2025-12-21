@@ -15,7 +15,7 @@
 Full documentation is available at:
 [https://scratchframe.mintlify.app](https://scratchframe.mintlify.app)
 
-Quickstart guide, embed instructions, and API reference are all included.
+Quickstart guide and embed instructions.
 
 ---
 

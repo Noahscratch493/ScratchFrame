@@ -10,22 +10,13 @@
 
 ---
 
-## Documentation
-
-Full documentation is available at:
-[https://scratchframe.mintlify.app](https://scratchframe.mintlify.app)
-
-Quickstart guide and embed instructions.
-
----
-
 ## Quickstart
 
 ### Profile Embed
 
 ```html
 <iframe
-  src="https://noahscratch493.github.io/ScratchFrame/profile/?username=Noahscratch493"
+  src="https://scrooch-project.github.io/scratchframe-host/profile/?username=Noahscratch493"
   style="width:100%; height:600px; border:none; border-radius:10px"
   allowfullscreen
 ></iframe>
@@ -35,7 +26,7 @@ Quickstart guide and embed instructions.
 
 ```html
 <iframe
-  src="https://noahscratch493.github.io/ScratchFrame/studio/?studio=123456"
+  src="https://scrooch-project.github.io/scratchframe-host/studio/?studio=123456"
   style="width:100%; height:600px; border:none; border-radius:10px"
   allowfullscreen
 ></iframe>
@@ -45,7 +36,7 @@ Quickstart guide and embed instructions.
 
 ```html
 <iframe
-  src="https://noahscratch493.github.io/ScratchFrame/explore/"
+  src="https://scrooch-project.github.io/scratchframe-host/explore/"
   style="width:100%; height:600px; border:none; border-radius:10px"
   allowfullscreen
 ></iframe>
